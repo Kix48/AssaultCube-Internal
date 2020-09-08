@@ -1,6 +1,8 @@
 Internal Assault Cube Hack 
 By: Kix
 
+Video: https://www.youtube.com/watch?v=JbY07jPGHD0
+
 Credits: Rake for his help and tutorials
 
 How-To:
