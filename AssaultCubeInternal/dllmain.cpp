@@ -43,7 +43,7 @@ DWORD __stdcall Thread(LPVOID param)
 
 	SwapBuffersHook.Enable(); //Enables our hook
 
-while (1) //Infinite loop
+	while (1) //Infinite loop
 	{
 		if (GetAsyncKeyState(VK_DELETE) & 1) //Checks if we want to exit the hack entirely
 		{
